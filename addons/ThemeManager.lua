@@ -45,7 +45,7 @@ do
         ["Default"] = {
             1,
             httpService:JSONDecode(
-                [[{"FontColor":"d5f1ff","MainColor":"16191b","AccentColor":"cdcdcd","BackgroundColor":"0e1213","OutlineColor":"1f262a"}]]
+                [[{"FontColor":"ffffff","MainColor":"191919","AccentColor":"cdcdcd","BackgroundColor":"0f0f0f","OutlineColor":"282828"}]]
             ),
         },
         ["Arch"] = {
